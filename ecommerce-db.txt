@@ -1,0 +1,6 @@
+ecommerce-db/
+│
+├── README.md          # Documentação completa do projeto
+├── schema.sql         # Script de criação do banco de dados
+├── insert.sql         # Script de inserção de dados de teste
+└── queries.sql        # Consultas SQL complexas
